@@ -1,0 +1,19 @@
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\screen_and_cam_shot.vbprojAssemblyReference.cache
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\screen_and_cam_shot.Form1.resources
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\screen_and_cam_shot.Resources.resources
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\screen_and_cam_shot.vbproj.GenerateResource.cache
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\screen_and_cam_shot.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\Take A Pic-k.exe.config
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\Take A Pic-k.exe
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\Take A Pic-k.pdb
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\Take A Pic-k.xml
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\Take A Pic-k.exe
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\Take A Pic-k.xml
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\Take A Pic-k.pdb
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\AForge.dll
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\AForge.Video.dll
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\AForge.xml
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\AForge.Video.xml
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jordan Adjei\source\repos\Screen and Cam shot\screen_and_cam_shot\obj\Debug\screen_and_cam_shot.vbproj.CopyComplete
